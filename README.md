@@ -1,1 +1,1 @@
-# L-Hansen
+My name is Loren Hansen, and I am a beginner web developer from the Metro Denver Area. I hope to use this online space to perfect my front end work and showcase the skills that I have gained over the course of the past four months.
